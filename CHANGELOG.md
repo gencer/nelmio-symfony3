@@ -1,3 +1,6 @@
+### 1.9.0-SF3
+  * Added symfony3 support (LoggerInterface changed to Logger)
+
 ### 1.9.0 (2016-01-xx)
 
   * Add Symfony 3 compatibility
