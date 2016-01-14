@@ -6,9 +6,9 @@ The NelmioSecurityBundle provides additional security features for your Symfony2
 
 ## Installation
 
-Require the `nelmio/security-bundle` package in your composer.json and update your dependencies.
+Require the `gencer/nelmio-symfony3` package in your composer.json and update your dependencies.
 
-    $ composer require nelmio/security-bundle
+    $ composer require gencer/nelmio-symfony3
 
 Add the NelmioSecurityBundle to your application's kernel:
 
